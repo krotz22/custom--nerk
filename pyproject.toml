@@ -3,7 +3,7 @@ name = "custom-ner-streamlit"
 version = "0.1.0"
 description = "Streamlit app for custom NER with spaCy and regex patterns"
 authors = 'keera'
-license = "MIT"
+
 
 [tool.poetry.dependencies]
 python = "^3.8"
