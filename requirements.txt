@@ -1,2 +1,4 @@
-streamlit
-spacy
+streamlit==1.25.0
+numpy==1.23.5
+spacy==3.6.1
+thinc==8.1.10
