@@ -2,18 +2,18 @@
 name = "custom-ner-streamlit"
 version = "0.1.0"
 description = "Streamlit app for custom NER with spaCy and regex patterns"
-authors = ["Your Name <your-email@example.com>"]
+authors = 'keera'
 license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-streamlit = "^1.25.0"  # Replace with the current version
-spacy = "^3.5.0"       # Make sure this matches the spaCy version you're using
-numpy = "^1.21.0"      # If spaCy uses numpy
-torch = "^1.9.0"       # If you're using transformers or spaCy with torch
+streamlit = "^1.25.0"
+spacy = "^3.5.0"
+numpy = "^1.21.0"
+torch = "^1.9.0"  # Include if using PyTorch
 
 [tool.poetry.scripts]
-custom-ner-streamlit = "app:main"
+custom-ner-streamlit = "app:main"  # Ensure `main` is the entry point
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
