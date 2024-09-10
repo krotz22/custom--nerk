@@ -16,8 +16,6 @@ configobj==5.0.8
 ConfigParser==7.1.0
 contextlib2==21.6.0
 cryptography==43.0.1
-cudf==0.6.1.post1
-cycler==0.12.1
 Cython==3.0.11
 dask_expr==1.1.13
 defusedxml==0.7.1
@@ -62,13 +60,10 @@ mypy_boto3_s3==1.35.2
 natto==0.1.7
 nbconvert==7.16.4
 nbformat==5.10.4
-numarray==1.5.1
-Numeric==24.2
 numexpr==2.10.1
 odfpy==1.4.1
 olefile==0.47
 openpyxl==3.1.5
-os_signpost==0.0.3
 paramiko==3.4.1
 pathy==0.11.0
 pep517==0.13.1
@@ -84,11 +79,8 @@ pycurl==7.45.3
 PyInstaller==6.10.0
 pymorphy2==0.9.1
 pymorphy3==2.0.2
-pyodide==0.0.2
-pyOpenSSL==24.2.1
 pyOpenSSL==24.2.1
 pyperf==2.7.0
-PyQt4==4.11.4
 PyQt5==5.15.11
 PyQt6==6.7.1
 PySide6==6.7.2
@@ -99,7 +91,6 @@ python_calamine==0.2.3
 pyvi==0.1.1
 pywin32==306
 pyxlsb==1.0.10
-PyYAML==6.0.1
 PyYAML==6.0.2
 qtpy==2.4.1
 railroad==0.5.0
@@ -143,5 +134,4 @@ webcolors==24.8.0
 xarray==2024.7.0
 xlrd==2.0.1
 xlsxwriter==3.2.0
-xmlrpclib==1.0.1
 zstandard==0.23.0
