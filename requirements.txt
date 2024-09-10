@@ -16,7 +16,7 @@ configobj==5.0.8
 ConfigParser==7.1.0
 contextlib2==21.6.0
 cryptography==43.0.1
-Cython==3.0.11
+cython
 dask_expr==1.1.13
 defusedxml==0.7.1
 disco==1.40.4
